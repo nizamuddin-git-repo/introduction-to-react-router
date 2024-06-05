@@ -1,0 +1,40 @@
+.userStyle{
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 20px;
+    /* background-color: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4); */
+    background-color: rgba(110, 38, 177, 0.51);
+
+}
+.postStyle{
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 20px;
+    /* background-color: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4); */
+    background-color: rgba(110, 38, 177, 0.51);
+
+}
+.postStyle{
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 20px;
+    /* background-color: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4); */
+    background-color: rgba(110, 38, 177, 0.51);
+
+}
+.commonStyle{
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 20px;
+    /* background-color: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4); */
+    background-color: rgba(110, 38, 177, 0.51);
+
+}
+
+
+.btn-style{
+    margin-left: 8px;
+    background-color: rgb(35, 79, 73);
+    
+    
+}
